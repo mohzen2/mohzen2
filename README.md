@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohzen2
 - 👀 I’m interested in ... SWE, Security, Data Analysis, and anything tech.
-- 🌱 I’m currently learning ... more front end development
+- 🌱 I’m currently learning ... full stack, and trying to improve my front end skills.
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... 
 
